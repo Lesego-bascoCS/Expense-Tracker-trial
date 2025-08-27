@@ -1,3 +1,11 @@
 # Expense-Tracker-trial
-Command-line program to add/view/delete expenses
-Built a simple expense tracker in Java with SQLite integration to practice CRUD operations and data persistence
+A simple command-line app to add and view personal expenses.
+
+## Features
+- Add expense with description and amount
+- View stored expenses
+- Data saved in SQLite database
+
+## Tech Stack
+- Java
+- SQLite
